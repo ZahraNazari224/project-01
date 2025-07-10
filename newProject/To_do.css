@@ -1,4 +1,4 @@
-/* Reset some default browser styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: #f0f2f5;
+    background: lightskyblue;
     color: #333;
     min-height: 100vh;
     display: flex;
@@ -21,7 +21,7 @@ body {
     max-width: 450px;
     width: 100%;
     padding: 30px 40px;
-    border-radius: 15px;
+    border-radius: 20px;
     box-shadow: 0 6px 15px rgba(0,0,0,0.1);
 }
 
